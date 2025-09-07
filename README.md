@@ -51,7 +51,12 @@ Examples of analysis & charts created with Python (matplotlib/seaborn) and expor
 - Bar chart: Savings per Serving  
 
 #DashBoard and Individual Charts Results
-![Results Dashboard](visuals/dashboard.png)
+![Results Dashboard](visuals/Dashboard.png)
+![Top Bookmarked Recipes](visuals/Bookmark.png)
+![Top Searched Ingredients ](visuals/Ingredients.png)
+![Top Dietary Goals](visuals/DietaryGoals.png)
+
+
 
 ---
 
