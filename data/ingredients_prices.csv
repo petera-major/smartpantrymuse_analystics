@@ -1,0 +1,37 @@
+ingredient,unit,avg_price_per_unit
+avocado,each,1.2
+lime,each,0.5
+lemon,each,0.6
+red onion,lb,1.2
+yellow onion,lb,1.1
+garlic,clove,0.1
+roma tomato,each,0.5
+cilantro,bunch,1.0
+kale,bunch,2.5
+basil,bunch,1.8
+parsley,bunch,1.2
+cabbage,lb,0.9
+carrot,each,0.25
+green onion,bunch,1.0
+bell pepper,each,1.1
+broccoli,lb,2.0
+olive oil,tbsp,0.2
+salt,tsp,0.01
+black pepper,tsp,0.05
+cumin,tsp,0.06
+paprika,tsp,0.06
+red wine vinegar,tbsp,0.07
+apple cider vinegar,tbsp,0.07
+yogurt (plain),cup,1.0
+mayonnaise,tbsp,0.08
+honey,tbsp,0.18
+tahini,tbsp,0.35
+chickpeas (15oz can),can,1.0
+walnuts,cup,2.0
+pine nuts,cup,7.0
+parmesan,cup,3.5
+parmesan (tbsp),tbsp,0.22
+egg,each,0.25
+rice (dry),cup,0.4
+chicken breast,lb,3.49
+soy sauce,tbsp,0.08

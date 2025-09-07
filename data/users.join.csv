@@ -1,0 +1,458 @@
+﻿"users","fields__|","diet","fields__|__arrayValue__values__mapValue__fields__|__arrayValue__values__stringValue","fields__|__arrayValue__values__mapValue__fields__|__integerValue","fields__|__arrayValue__values__mapValue__fields__|__nullValue","fields__|__arrayValue__values__mapValue__fields__|__booleanValue","fields__|__arrayValue__values__mapValue__fields__|__doubleValue","fields__|__arrayValue__values__mapValue__fields__|__stringValue","fields__|__stringValue","createTime","updateTime"
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/1Zzqcl2ObIeiOdc8qceL319IQ732","goal","","","","","","","","high-protein","2025-06-03T23:15:55.076252Z","2025-06-03T23:15:55.076252Z"
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/6TmQBKQ9QQfO8muIv9MGZpEvhix1","allergies","","","","","","","","","2025-04-27T21:40:54.545781Z","2025-06-12T05:56:42.953698Z"
+"","goal","","","","","","","","maxCalories=900","",""
+"","bookmarks","","","","","","","CC BY 3.0","","",""
+"","","","","","","","105.92","","","",""
+"","","veryHealthy","","","","True","","","","",""
+"","","","","","null","","","","","",""
+"","","sustainable","","","","False","","","","",""
+"","","","","","","","","Skinny Kale Basil Pesto","","",""
+"","","","","","","","96.668869018554688","","","",""
+"","","","","660228","","","","","","",""
+"","","","","2","","","","","","",""
+"","","","","","","","","jpg","","",""
+"","","","","81","","","","","","",""
+"","","","","3","","","","","","",""
+"","","","","45","","","","","","",""
+"","","","","","","","","https://spoonacular.com/skinny-kale-basil-pesto-660228","","",""
+"","","vegan","","","","False","","","","",""
+"","","","condiment","","","","","","","",""
+"","","","dip","","","","","","","",""
+"","","","sauce","","","","","","","",""
+"","","","spread","","","","","","","",""
+"","","glutenFree","","","","True","","","","",""
+"","","","gluten free","","","","","","","",""
+"","","","","","","","","no","","",""
+"","","","","","","False","","","","",""
+"","","","","","","","","Foodista","","",""
+"","","","","","","","","Foodista.com – The Cooking Encyclopedia Everyone Can Edit","","",""
+"","","","","","","False","","","","",""
+"","","cuisines","","","","","","","","",""
+"","","","","","null","","","","","",""
+"","","","","","","","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/660228-312x231.jpg","","",""
+"","","vegetarian","","","","False","","","","",""
+"","","","","","","","","Skinny Kale Basil Pesto requires about <b>45 minutes</b> from start to finish. For <b>$1.06 per serving</b>, you get a condiment that serves 3. Watching your figure? This gluten free recipe has <b>81 calories</b>, <b>4g of protein</b>, and <b>5g of fat</b> per serving. A few people made this recipe, and 10 would say it hit the spot. It is brought to you by Foodista. A mixture of parmesan cheese, olive oil, walnuts, and a handful of other ingredients are all it takes to make this recipe so delicious. With a spoonacular <b>score of 97%</b>, this dish is great. <a href=""https://spoonacular.com/recipes/kale-basil-mint-parsley-pesto-1018918"">Kale Basil Mint Parsley Pesto</a>, <a href=""https://spoonacular.com/recipes/kale-basil-mint-parsley-pesto-1353273"">Kale Basil Mint Parsley Pesto</a>, and <a href=""https://spoonacular.com/recipes/kale-spinach-and-basil-pesto-baked-pasta-1099896"">Kale, Spinach and Basil Pesto Baked Pasta</a> are very similar to this recipe.","","",""
+"","","","","","","","","https://www.foodista.com/recipe/6K5LNQ7F/skinny-kale-basil-pesto","","",""
+"","","","","10","","","","","","",""
+"","","dairyFree","","","","False","","","","",""
+"","","veryPopular","","","","True","","","","",""
+"","","","","","","","","If you want to add more <b>gluten free, dairy free, paleolithic, and lacto ovo vegetarian</b> recipes to your recipe box, Homemade Guacamole might be a recipe you should try. For <b>92 cents per serving</b>, this recipe <b>covers 9%</b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>170 calories</b>, <b>2g of protein</b>, and <b>15g of fat</b> each. It is an <b>inexpensive</b> recipe for fans of Mexican food. Many people really liked this hor d'oeuvre. This recipe from Pink When has 1330 fans. A mixture of roma tomato, onion, pepper, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. With a spoonacular <b>score of 97%</b>, this dish is amazing. Similar recipes are <a href=""https://spoonacular.com/recipes/homemade-guacamole-883310"">Homemade Guacamole</a>, <a href=""https://spoonacular.com/recipes/homemade-guacamole-1059336"">Homemade Guacamole</a>, and <a href=""https://spoonacular.com/recipes/homemade-guacamole-1170259"">Homemade Guacamole</a>.","","",""
+"","","weightWatcherSmartPoints","","5","","","","","","",""
+"","","dairyFree","","","","True","","","","",""
+"","","","","","","","","GAPS_FULL","","",""
+"","","vegetarian","","","","True","","","","",""
+"","","healthScore","","34","","","","","","",""
+"","","cuisines","Mexican","","","","","","","",""
+"","","","","","","","","Pink When","","",""
+"","","readyInMinutes","","45","","","","","","",""
+"","","creditsText","","","","","","Jen West","","",""
+"","","pricePerServing","","","","","91.76","","","",""
+"","","vegan","","","","True","","","","",""
+"","","","","","","","","https://www.pinkwhen.com/homemade-guacamole-recipe/","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","","","715543","","","","","","",""
+"","","","","","","","96.8747329711914","","","",""
+"","","","","","","","","","","",""
+"","","","","1330","","","","","","",""
+"","","","","","","","","https://spoonacular.com/homemade-guacamole-715543","","",""
+"","","","","","null","","","","","",""
+"","","","","","","False","","","","",""
+"","","dishTypes","antipasti","","","","","","","",""
+"","","","condiment","","","","","","","",""
+"","","","starter","","","","","","","",""
+"","","","snack","","","","","","","",""
+"","","","appetizer","","","","","","","",""
+"","","","dip","","","","","","","",""
+"","","","antipasto","","","","","","","",""
+"","","","hor d'oeuvre","","","","","","","",""
+"","","","spread","","","","","","","",""
+"","","","","","","","","jpg","","",""
+"","","glutenFree","","","","True","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","","","","","Homemade Guacamole","","",""
+"","","","","4","","","","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/715543-312x231.jpg","","",""
+"","","","","","null","","","","","",""
+"","","diets","gluten free","","","","","","","",""
+"","","","dairy free","","","","","","","",""
+"","","","paleolithic","","","","","","","",""
+"","","","lacto ovo vegetarian","","","","","","","",""
+"","","","primal","","","","","","","",""
+"","","","whole 30","","","","","","","",""
+"","","","vegan","","","","","","","",""
+"","","sustainable","","","","False","","","","",""
+"","","cookingMinutes","","","null","","","","","",""
+"","","","","","","","","Spicy Indian-Style Hummus","","",""
+"","","","","","","","","foodandspice.com","","",""
+"","","glutenFree","","","","True","","","","",""
+"","","cuisines","Middle Eastern","","","","","","","",""
+"","","occasions","","","","","","","","",""
+"","","sustainable","","","","False","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","45","","","","","","",""
+"","","","","12","","","","","","",""
+"","","","","","","","","https://www.foodandspice.com/2012/07/spicy-hummus-indian-style.html","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","","","716195","","","","","","",""
+"","","","","","","","","foodandspice.com","","",""
+"","","","","","","False","","","","",""
+"","","","","","null","","","","","",""
+"","","","","","","","","https://spoonacular.com/spicy-indian-style-hummus-716195","","",""
+"","","","antipasti","","","","","","","",""
+"","","","condiment","","","","","","","",""
+"","","","starter","","","","","","","",""
+"","","","snack","","","","","","","",""
+"","","","appetizer","","","","","","","",""
+"","","","dip","","","","","","","",""
+"","","","antipasto","","","","","","","",""
+"","","","hor d'oeuvre","","","","","","","",""
+"","","","spread","","","","","","","",""
+"","","","","","","","96.797439575195312","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/716195-312x231.jpg","","",""
+"","","","","","","","","no","","",""
+"","","","gluten free","","","","","","","",""
+"","","","dairy free","","","","","","","",""
+"","","","lacto ovo vegetarian","","","","","","","",""
+"","","","vegan","","","","","","","",""
+"","","","","","null","","","","","",""
+"","","","","","","","","jpg","","",""
+"","","","","","","","43.68","","","",""
+"","","","","161","","","","","","",""
+"","","weightWatcher","","3","","","","","","",""
+"","","","","","","","","You can never have too many middl eastern recipes, so give Spicy Indian-Style Hummus a try. For <b>44 cents per serving</b>, you get a hor d'oeuvre that serves 12. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>134 calories</b>, <b>5g of protein</b>, and <b>6g of fat</b> per serving. This recipe from foodandspice.blogspot.com has 161 fans. From preparation to the plate, this recipe takes about <b>45 minutes</b>. Head to the store and pick up turmeric, chilies, sea salt, and a few other things to make it today. With a spoonacular <b>score of 96%</b>, this dish is outstanding. Users who liked this recipe also liked <a href=""https://spoonacular.com/recipes/indian-style-spicy-couscous-647863"">Indian Style Spicy Couscous</a>, <a href=""https://spoonacular.com/recipes/red-onion-indian-spiced-hummus-217684"">Red onion & Indian-spiced hummus</a>, and <a href=""https://spoonacular.com/recipes/indian-style-coleslaw-603940"">Indian-Style Coleslaw</a>.","","",""
+"","","vegetarian","","","","True","","","","",""
+"","","","","","","False","","","","",""
+"","","dairyFree","","","","True","","","","",""
+"","","","","","null","","","","","",""
+"","","vegan","","","","True","","","","",""
+"","","","","40","","","","","","",""
+"","","","","","null","","","","","",""
+"","","","morning meal","","","","","","","",""
+"","","","brunch","","","","","","","",""
+"","","","breakfast","","","","","","","",""
+"","","","","","","","","https://www.foodista.com/recipe/5CZCDPQD/sweet-salty-granola-bars","","",""
+"","","cuisines","","","","","","","","",""
+"","","","","1","","","","","","",""
+"","","veryPopular","","","","False","","","","",""
+"","","","","2","","","","","","",""
+"","","sustainable","","","","False","","","","",""
+"","","","","","","","","","","",""
+"","","vegetarian","","","","False","","","","",""
+"","","diets","dairy free","","","","","","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","","","","","","","no","","",""
+"","","","","10","","","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","","","","","Sweet & Salty Granola Bars","","",""
+"","","","","","null","","","","","",""
+"","","","","","","","","The recipe Sweet & Salty Granola Bars can be made <b>in approximately 1 hour</b>. One serving contains <b>193 calories</b>, <b>5g of protein</b>, and <b>8g of fat</b>. This recipe serves 10. For <b>55 cents per serving</b>, this recipe <b>covers 7%</b> of your daily requirements of vitamins and minerals. If you have almonds, brown rice syrup, semi-sweet chocolate chips, and a few other ingredients on hand, you can make it. 1 person has made this recipe and would make it again. It works well as a breakfast. It is brought to you by Foodista. It is a good option if you're following a <b>dairy free</b> diet. Overall, this recipe earns a <b>rather bad spoonacular score of 32%</b>. Similar recipes are <a href=""https://spoonacular.com/recipes/sweet-salty-granola-bars-1433497"">Sweet & Salty Granola Bars</a>, <a href=""https://spoonacular.com/recipes/no-bake-sweet-and-salty-trail-mix-granola-bars-671499"">no-bake sweet and salty trail mix granola bars</a>, and <a href=""https://spoonacular.com/recipes/salty-sweet-granola-and-coconut-yogurt-sugar-rush-gift-edition-568690"">Salty Sweet Granolan and Coconut Yogurt {Sugar Rush Gift Edition</a>.","","",""
+"","","","","","","","33.450229644775391","","","",""
+"","","weightWatcher","","7","","","","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/662416-312x231.jpg","","",""
+"","","cookingMinutes","","","null","","","","","",""
+"","","","","","","","","foodista.com","","",""
+"","","","","","","","","foodista.com","","",""
+"","","dairyFree","","","","True","","","","",""
+"","","","","662416","","","","","","",""
+"","","","","","","","","https://spoonacular.com/sweet-salty-granola-bars-662416","","",""
+"","","cheap","","","","False","","","","",""
+"","","","","","","","","jpg","","",""
+"","","glutenFree","","","","False","","","","",""
+"","","","","60","","","","","","",""
+"","","vegan","","","","False","","","","",""
+"","","pricePerServing","","","","","54.93","","","",""
+"","","cuisines","Southern","","","","","","","",""
+"","","glutenFree","","","","False","","","","",""
+"","","pricePerServing","","","","","83.68","","","",""
+"","","veryPopular","","","","False","","","","",""
+"","","diets","lacto ovo vegetarian","","","","","","","",""
+"","","weightWatcherSmartPoints","","12","","","","","","",""
+"","","gaps","","","","","","no","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","creditsText","","","","","","Foodista.com – The Cooking Encyclopedia Everyone Can Edit","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","dairyFree","","","","False","","","","",""
+"","","","","","","","","CC BY 3.0","","",""
+"","","","bread","","","","","","","",""
+"","","","","8","","","","","","",""
+"","","","","640067","","","","","","",""
+"","","","","","","False","","","","",""
+"","","vegetarian","","","","True","","","","",""
+"","","","","","","","","Corn Bread","","",""
+"","","vegan","","","","False","","","","",""
+"","","","","1","","","","","","",""
+"","","","","","","","45.749027252197266","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/640067-312x231.jpg","","",""
+"","","occasions","","","","","","","","",""
+"","","","","","","","","If you want to add more <b>Southern</b> recipes to your repertoire, Corn Bread might be a recipe you should try. This recipe serves 8 and costs 84 cents per serving. Watching your figure? This lacto ovo vegetarian recipe has <b>363 calories</b>, <b>11g of protein</b>, and <b>12g of fat</b> per serving. 1 person were glad they tried this recipe. It works best as a bread, and is done in about <b>45 minutes</b>. A mixture of milk, unbleached flour, salt, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. With a spoonacular <b>score of 40%</b>, this dish is pretty good. If you like this recipe, you might also like recipes such as <a href=""https://spoonacular.com/recipes/skillet-corn-bread-with-fresh-cut-corn-and-bacon-62797"">Skillet Corn Bread With Fresh Cut Corn And Bacon</a>, <a href=""https://spoonacular.com/recipes/southwest-corn-bread-stuffing-with-corn-and-green-chilies-156883"">Southwest Corn Bread Stuffing with Corn and Green Chilies</a>, and <a href=""https://spoonacular.com/recipes/pan-roasted-corn-and-cumin-corn-bread-267116"">Pan-Roasted Corn-and-Cumin Corn Bread</a>.","","",""
+"","","","","45","","","","","","",""
+"","","","","","","","","https://spoonacular.com/corn-bread-640067","","",""
+"","","sustainable","","","","False","","","","",""
+"","","","","6","","","","","","",""
+"","","preparationMinutes","","","null","","","","","",""
+"","","","","","","","","https://www.foodista.com/recipe/2NB4QVDY/corn-bread","","",""
+"","","","","","","","","Foodista","","",""
+"","","","","","","","","jpg","","",""
+"","","","","","null","","","","","",""
+"","","ingredients","-","","","","","","","",""
+"","","","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","","","","","","","- Bean and Bacon Breakfast Burrito","","",""
+"","","","","","","","","- Bean and Bacon Breakfast Burrito
+   - Estimated serving size: 1 burrito
+   - Calories per serving: 400
+
+   - List of ingredients:
+     - 2 slices of bacon
+     - 1/2 cup of canned beans
+     - 2 eggs
+     - 1 large tortilla
+     - Salt and pepper to taste
+     - Optional toppings: cheese, salsa, avocado
+
+   - Step-by-step instructions:
+     1. Cook bacon in a skillet until crispy. Remove from skillet and chop into small pieces.
+     2. In the same skillet, heat canned beans until warmed through.
+     3. In a separate bowl, whisk eggs and season with salt and pepper.
+     4. Scramble eggs in the skillet until fully cooked.
+     5. Place the tortilla on a flat surface and layer the beans, bacon, and scrambled eggs in the center.
+     6. Add any optional toppings you desire.
+     7. Fold the sides of the tortilla in and roll it up tightly.
+     8. Heat the burrito in the skillet for a few minutes on each side until lightly browned.
+     9. Serve hot and enjoy your delicious bean and bacon breakfast burrito!","","",""
+"","","","","","","","","ai-1749218442202","","",""
+"","","","","22","","","","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/1505411-312x231.jpg","","",""
+"","","","","1505411","","","","","","",""
+"","","sustainable","","","","False","","","","",""
+"","","","","","","","65.561172485351562","","","",""
+"","","","","6","","","","","","",""
+"","","glutenFree","","","","True","","","","",""
+"","","","","15","","","","","","",""
+"","","","Mexican","","","","","","","",""
+"","","","lunch","","","","","","","",""
+"","","","main course","","","","","","","",""
+"","","","main dish","","","","","","","",""
+"","","","dinner","","","","","","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","","","","","False","","","","",""
+"","","","","","","","","jpg","","",""
+"","","","","","","","","pinkwhen.com","","",""
+"","","weightWatcher","","8","","","","","","",""
+"","","","","","","","","pinkwhen.com","","",""
+"","","","gluten free","","","","","","","",""
+"","","","","","","","","","","",""
+"","","","","","","","","https://www.pinkwhen.com/ground-beef-street-tacos/","","",""
+"","","vegan","","","","False","","","","",""
+"","","","","","","","","no","","",""
+"","","dairyFree","","","","False","","","","",""
+"","","","","","","","","https://spoonacular.com/ground-beef-street-tacos-1505411","","",""
+"","","","","20","","","","","","",""
+"","","","","","","","","Ground Beef Street Tacos","","",""
+"","","","","","null","","","","","",""
+"","","","","","","False","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","","","","335.17","","","",""
+"","","vegetarian","","","","False","","","","",""
+"","","","","","","","","Need a <b>gluten free main course</b>? Ground Beef Street Tacos could be an amazing recipe to try. This recipe makes 6 servings with <b>354 calories</b>, <b>34g of protein</b>, and <b>13g of fat</b> each. For <b>$3.35 per serving</b>, this recipe <b>covers 24%</b> of your daily requirements of vitamins and minerals. This recipe is liked by 1 foodies and cooks. This recipe is typical of Mexican cuisine. Head to the store and pick up lime juice, onion, chili powder, and a few other things to make it today. It is brought to you by Pink When. From preparation to the plate, this recipe takes around <b>20 minutes</b>. Overall, this recipe earns a <b>solid spoonacular score of 50%</b>. Users who liked this recipe also liked <a href=""https://spoonacular.com/recipes/ground-beef-street-tacos-1797683"">Ground Beef Street Tacos</a>, <a href=""https://spoonacular.com/recipes/ground-beef-street-tacos-1624983"">Ground Beef Street Tacos</a>, and <a href=""https://spoonacular.com/recipes/ground-beef-street-tacos-1636811"">Ground Beef Street Tacos</a>.","","",""
+"","","","","0","","","","","","",""
+"","","","","5","","","","","","",""
+"","","","","","","","","ai-1749224917970","","",""
+"","","","","","","","","- Baked Chicken Thighs with Wild Rice Pilaf and Roasted Asparagus","","",""
+"","","","","","","","","- Baked Chicken Thighs with Wild Rice Pilaf and Roasted Asparagus
+- Estimated serving size: 4 servings 🍽️
+- Calories per serving: Approximately 400 calories 🔥
+
+- List of ingredients:
+  - 4 bone-in, skin-on chicken thighs
+  - 1 cup wild rice
+  - 2 cups chicken broth
+  - 1 bunch of asparagus
+  - Olive oil
+  - Salt and pepper
+  - Optional: herbs or spices of your choice
+
+- Step-by-step instructions:
+1. Preheat your oven to 400°F (200°C).
+2. Season the chicken thighs with salt, pepper, and any herbs or spices you like. Place them on a baking sheet and bake for about 35-40 minutes or until cooked through.
+3. While the chicken is baking, rinse the wild rice and cook it according to the package instructions, using chicken broth instead of water for added flavor.
+4. Trim the woody ends off the asparagus and place them on a separate baking sheet. Drizzle with olive oil, season with salt and pepper, and roast in the oven for about 15-20 minutes.
+5. Once everything is cooked, plate the wild rice pilaf, top with the baked chicken thighs, and serve with the roasted asparagus on the side. Enjoy your delicious and nutritious meal! 🍗🍚🌱","","",""
+"","","ingredients","-","","","","","","","",""
+"","","image","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","instructions","","","","","","- Garlic Butter Shrimp Pasta
+- Estimated serving size: 4
+- Calories per serving: 400
+- List of ingredients:
+  - 1 lb shrimp, peeled and deveined
+  - 8 oz spaghetti noodles
+  - 4 cloves garlic, minced
+  - 4 tbsp butter
+  - Salt and pepper to taste
+  - Fresh parsley for garnish
+  - Mixed greens for side salad
+  - Dressing of choice for salad
+
+- Step-by-step instructions:
+1. Cook spaghetti noodles according to package instructions. Drain and set aside.
+2. In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant.
+3. Add shrimp to the skillet and cook until pink and cooked through, about 2-3 minutes per side.
+4. Season shrimp with salt and pepper to taste.
+5. Add cooked spaghetti noodles to the skillet and toss with the garlic butter shrimp.
+6. Serve shrimp and pasta on a plate, garnish with fresh parsley.
+7. Serve with mixed greens salad on the side dressed with your favorite dressing.
+8. Enjoy your garlic butter shrimp pasta with a side salad of mixed greens!","","",""
+"","","","","","","","","- Garlic Butter Shrimp Pasta","","",""
+"","","","","","","","","ai-1749400169488","","",""
+"","","","-","","","","","","","",""
+"","","","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","","-","","","","","","","",""
+"","","","","","","","","- BLT Rice Bowls","","",""
+"","","","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","","","","","","","ai-1749482381199","","",""
+"","","","","","","","","- BLT Rice Bowls
+- Estimated serving size: 4 servings 🍽️
+- Calories per serving: Approximately 400 calories 🔥
+- Ingredients:
+  - 2 cups cooked white or brown rice
+  - 8 slices of crispy bacon, crumbled
+  - 1 cup diced tomatoes
+  - 2 cups chopped lettuce
+  - 1/2 cup creamy ranch dressing
+
+- Step-by-step instructions:
+1. Cook the rice according to package instructions and divide it into four bowls.
+2. Top each bowl of rice with equal amounts of crispy bacon, diced tomatoes, and chopped lettuce.
+3. Drizzle a generous amount of creamy ranch dressing over the top.
+4. Serve and enjoy your delicious BLT Rice Bowls!","","",""
+"","","","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","","","","","","","- Baked Sweet Potato with Seasoned Ground Turkey and Steamed Broccoli
+- Estimated serving size: 1
+- Calories per serving: 400
+
+Ingredients:
+- 1 medium sweet potato
+- 4 oz lean ground turkey
+- 1/2 tsp olive oil
+- 1/4 tsp garlic powder
+- 1/4 tsp onion powder
+- 1/4 tsp paprika
+- Salt and pepper to taste
+- 1 cup broccoli florets
+
+Instructions:
+1. Preheat the oven to 400°F (200°C).
+2. Wash and scrub the sweet potato, then pierce it with a fork a few times.
+3. Place the sweet potato on a baking sheet and bake for 45-60 minutes, or until tender.
+4. While the sweet potato is baking, heat olive oil in a skillet over medium heat.
+5. Add the ground turkey, garlic powder, onion powder, paprika, salt, and pepper to the skillet. Cook until the turkey is browned and fully cooked.
+6. Steam the broccoli florets either on the stovetop or in the microwave until tender.
+7. Once the sweet potato is cooked, slice it open and fluff the insides.
+8. Top the sweet potato with the seasoned ground turkey and serve with steamed broccoli on the side.
+9. Enjoy your nutritious and flavorful meal!","","",""
+"","","","","","","","","- Baked Sweet Potato with Seasoned Ground Turkey and Steamed Broccoli","","",""
+"","","","-","","","","","","","",""
+"","","","","","","","","ai-1749482557715","","",""
+"","","","","","","","","- Baked Chicken with Roasted Potatoes and Caramelized Onions","","",""
+"","","","-","","","","","","","",""
+"","","","","","","","","file:///private/var/containers/Bundle/Application/AB71E974-C57C-4EF6-91CE-D8F05A951AD8/SmartPantryMuse.app/assets/assets/images/placeholder.jpg","","",""
+"","","","","","","","","ai-1749707802234","","",""
+"","","","","","","","","- Baked Chicken with Roasted Potatoes and Caramelized Onions
+- Estimated serving size: 4
+- Calories per serving: 400
+
+- Ingredients:
+  - 4 chicken breasts
+  - 4 large potatoes, diced
+  - 2 onions, sliced
+  - 2 tbsp olive oil
+  - 2 tbsp balsamic vinegar
+  - Salt and pepper to taste
+  - 1 tsp garlic powder
+  - 1 tsp paprika
+  - Fresh herbs (optional)
+
+- Step-by-step instructions:
+1. Preheat your oven to 400°F (200°C).
+2. Season the chicken breasts with salt, pepper, garlic powder, and paprika. Place them on a baking dish.
+3. In a separate bowl, toss the diced potatoes with olive oil, salt, and pepper. Spread them on a baking sheet in a single layer.
+4. Place the baking dish with the chicken and the baking sheet with the potatoes in the oven. Bake for 20 minutes.
+5. Meanwhile, heat some olive oil in a pan and add the sliced onions. Cook over low heat until caramelized, about 15-20 minutes.
+6. After the initial 20 minutes of baking, add the caramelized onions on top of the chicken and drizzle balsamic vinegar.
+7. Continue baking for an additional 10-15 minutes, or until the chicken is cooked through and the potatoes are crispy on the edges.
+8. Serve the baked chicken with roasted potatoes and caramelized onions, garnish with fresh herbs if desired. Enjoy!","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/8V2LANr9xTfG5XHuHyvriHBg37H2","goal","","","","","","","","low FODMAP","2025-06-03T17:09:00.620600Z","2025-06-03T17:12:47.833966Z"
+"","allergies","","","","","","","","None ","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/C6bqMhZ6o1QWHzkJkIS2PfsZd9k2","goal","","","","","","","","low FODMAP","2025-05-27T00:18:18.728601Z","2025-05-27T00:18:18.728601Z"
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/DoJammxsA8Pl0ynhKNSdf5BFk7s1","allergies","","","","","","","","Shell food ","2025-06-03T15:11:13.566673Z","2025-06-03T15:11:13.566673Z"
+"","goal","","","","","","","","low FODMAP","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/HTkFJX38HHhghJsziFcsaoMUoX33","goal","","","","","","","","low FODMAP","2025-06-15T03:23:44.258400Z","2025-06-15T03:23:44.258400Z"
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/JTyfvNdObxV5xPVDkXdSlLOb5bp1","allergies","","","","","","","","","2025-06-03T14:55:59.433942Z","2025-06-03T14:55:59.433942Z"
+"","goal","","","","","","","","low FODMAP","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/M2ivDz9g5jOHoR0ch4srq8ZTc0F3","goal","","","","","","","","ketogenic","2025-05-29T00:34:26.090074Z","2025-06-02T21:42:58.046016Z"
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/N9NOl6hI0HhwmLW6VB4xpZHSVZH3","bookmarks","id","","644387","","","","","","2025-05-28T19:53:19.830565Z","2025-05-28T19:54:02.208602Z"
+"","","","","","","","","https://img.spoonacular.com/recipes/644387-312x231.jpg","","",""
+"","","","","","","","","jpg","","",""
+"","","","","","","","","Garlicky Kale","","",""
+"","","","","715446","","","","","","",""
+"","","","","","","","","Slow Cooker Beef Stew","","",""
+"","","","","","","","","jpg","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/715446-312x231.jpg","","",""
+"","goal","","","","","","","","maxCalories=900","",""
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/NNmZDGlqC0PEbq1He2bVfH6TXf53","allergies","","","","","","","","","2025-05-26T21:37:16.884364Z","2025-05-26T21:37:16.884364Z"
+"","goal","","","","","","","","maxCalories=900","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/XBSAJg9hhpSEhROxEMFReq1kYca2","allergies","","","","","","","","","2025-05-26T16:58:57.701541Z","2025-06-05T05:25:47.270524Z"
+"","goal","","","","","","","","maxCalories=900","",""
+"","bookmarks","sustainable","","","","False","","","","",""
+"","","","","15","","","","","","",""
+"","","","","","","","","https://spoonacular.com/sweet-and-spicy-country-style-ribs-662463","","",""
+"","","","","","","","","https://www.foodista.com/recipe/2ZF5G885/sweet-and-spicy-country-style-ribs","","",""
+"","","","","","null","","","","","",""
+"","","","","","","","","no","","",""
+"","","","lunch","","","","","","","",""
+"","","","main course","","","","","","","",""
+"","","","main dish","","","","","","","",""
+"","","","dinner","","","","","","","",""
+"","","cuisines","","","","","","","","",""
+"","","diets","gluten free","","","","","","","",""
+"","","","","","","","","Foodista","","",""
+"","","","","","","","","","","",""
+"","","","","","","","","https://img.spoonacular.com/recipes/662463-312x231.jpg","","",""
+"","","","","","null","","","","","",""
+"","","dairyFree","","","","False","","","","",""
+"","","vegetarian","","","","False","","","","",""
+"","","","","45","","","","","","",""
+"","","","","3","","","","","","",""
+"","","","","6","","","","","","",""
+"","","","","","","","","CC BY 3.0","","",""
+"","","glutenFree","","","","True","","","","",""
+"","","lowFodmap","","","","False","","","","",""
+"","","","","","","","331.2","","","",""
+"","","","","","","False","","","","",""
+"","","","","","","","","Sweet and Spicy Country-Style Ribs","","",""
+"","","veryHealthy","","","","False","","","","",""
+"","","","","","","","","Sweet and Spicy Country-Style Ribs might be a good recipe to expand your main course repertoire. One portion of this dish contains about <b>25g of protein</b>, <b>20g of fat</b>, and a total of <b>506 calories</b>. This gluten free recipe serves 6 and costs <b>$3.31 per serving</b>. Head to the store and pick up beef stock, honey, butter, and a few other things to make it today. 3 people found this recipe to be scrumptious and satisfying. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes</b>. Overall, this recipe earns a <b>good spoonacular score of 46%</b>. Try <a href=""https://spoonacular.com/recipes/sweet-and-sour-country-style-ribs-487238"">Sweet and Sour Country Style Ribs</a>, <a href=""https://spoonacular.com/recipes/sweet-n-spicy-country-ribs-397391"">Sweet 'n' Spicy Country Ribs</a>, and <a href=""https://spoonacular.com/recipes/country-style-ribs-146904"">Country Style Ribs</a> for similar recipes.","","",""
+"","","","","","","","63.057941436767578","","","",""
+"","","","","","","False","","","","",""
+"","","","","662463","","","","","","",""
+"","","","","","","","","jpg","","",""
+"","","weightWatcher","","20","","","","","","",""
+"","","","","","","","","Foodista.com – The Cooking Encyclopedia Everyone Can Edit","","",""
+"","","vegan","","","","False","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/igvwnqWemeOrRvSE1UeVNu7EU5r2","allergies","","","","","","","","","2025-06-03T17:11:16.508645Z","2025-06-03T17:13:56.407081Z"
+"","goal","","","","","","","","low FODMAP","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/ikCzuv47BufJKcACqDdWVmMDfUx1","goal","","","","","","","","high-protein","2025-06-03T16:39:51.039100Z","2025-06-03T16:39:51.039100Z"
+"","allergies","","","","","","","","","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/pFJJQfjOgzWHfMj5a16PZmsikUN2","allergies","","","","","","","","","2025-06-03T18:23:17.231358Z","2025-06-03T18:23:17.231358Z"
+"","goal","","","","","","","","low FODMAP","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/vHTrtBbNAhWkChNmhKdz7lyztyB2","allergies","","","","","","","","","2025-05-26T20:20:22.104251Z","2025-05-26T20:27:09.834032Z"
+"","goal","","","","","","","","maxCalories=900","",""
+"projects/myrecipeapp-cf105/databases/(default)/documents/users/ytcXgb96RueiZdrc6oHd5DktkGY2","allergies","","","","","","","","","2025-06-25T01:08:39.804591Z","2025-06-25T01:08:39.804591Z"
+"","goal","","","","","","","","low FODMAP","",""
