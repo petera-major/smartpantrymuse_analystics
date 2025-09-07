@@ -50,7 +50,8 @@ Examples of analysis & charts created with Python (matplotlib/seaborn) and expor
 - Bar chart: Home vs Restaurant Costs per Recipe  
 - Bar chart: Savings per Serving  
 
-
+#DashBoard and Individual Charts Results
+![Results Dashboard](visuals/dashboard.png)
 
 ---
 
